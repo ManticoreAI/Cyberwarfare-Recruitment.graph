@@ -1,4 +1,3 @@
-# Cyberwarfare-Recruitment.graph
 # site: cybermission.tech
 Home: https://www.cybermission.tech
 ## Ad: "u/todays-military avatar todays-military • Promoted  See how far a future in cyberdefense can take you."
